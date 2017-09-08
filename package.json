@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "async": "^2.5.0",
+    "bufferhelper": "^0.2.1",
+    "cheerio": "^1.0.0-rc.2",
+    "iconv": "^2.3.0",
+    "superagent": "^3.6.0",
+    "superagent-charset": "^1.2.0"
+  }
+}
