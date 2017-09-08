@@ -19,12 +19,12 @@ var htmlHeader = {
   'Accept-Language': 'zh-CN,zh;q=0.8,en;q=0.6',
   'Connection': 'keep-alive',
   'Cookie': 'Hm_lvt_ac168fe809d6bd1c9e16493d086e741e=1504783365; Hm_lpvt_ac168fe809d6bd1c9e16493d086e741e=1504783365; bdshare_firstime=1504783365467',
-  'Host': 'www.80txt.com',
-  'Referer': 'http://www.80txt.com/txtml_23687.html',
+  'Host': 'xxx',
+  'Referer': 'xxx',
   'Upgrade-Insecure-Requests': 1,
   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'
 }
-var targetNovelSite = 'http://www.80txt.com/txtml_23687.html';
+var targetNovelSite = 'xxx';
 
 /*****************************************
  * async 写法
